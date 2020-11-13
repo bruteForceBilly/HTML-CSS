@@ -134,4 +134,6 @@ Show different ways to write css, and some basic css properties: `font-size`, `b
 
 ### Exercise
 
+Optionally show this exercise on codepen about CSS unit values: REM & EM. The point of the exercise is to explain how REM values can make layout more coherent and easier to maintain: https://codepen.io/bruteforcebilly/pen/eYzQjMV 
+
 ### Essence
